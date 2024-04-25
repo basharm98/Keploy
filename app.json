@@ -1,13 +1,13 @@
 {
   "name": "سورس ابو صكر",
   "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "logo": "https://telegra.ph/file/5fab2702710ef5429b7fc.png",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thejmthon/Keploy",
+  "repository": "https://github.com/basharm98/Keploy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
